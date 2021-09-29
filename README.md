@@ -35,3 +35,5 @@ python main.py <webp file> license.txt
 ## Reference
 - [https://developers.google.com/speed/webp](https://developers.google.com/speed/webp)
 
+## Blog
+[How to Decode QR Code from WebP Images in C++ and Python](https://www.dynamsoft.com/codepool/webp-qr-code-recognition-cpp-python.html)
