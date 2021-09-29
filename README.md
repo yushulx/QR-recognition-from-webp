@@ -7,7 +7,7 @@ The samples demonstrate how to recognize QR code from WebP images with Dynamsoft
     - Python
     
         ```bash
-        pip install dbr
+        pip install dbr opencv-python
         ```
 - [libwebp-1.2.1](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.2.1.tar.gz)
 
