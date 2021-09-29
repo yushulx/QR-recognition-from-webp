@@ -676,7 +676,7 @@ uint8_t* WebPDecodeYUV(const uint8_t* data, size_t data_size,
 void GetRGBAInfo(const uint8_t* data, size_t data_size,
                         int* width, int* height, WebPDecBuffer *output) {
 
-  Decode(MODE_ARGB, data, data_size, width, height, output);
+  Decode(MODE_RGBA, data, data_size, width, height, output);
 }
 
 static void DefaultFeatures(WebPBitstreamFeatures* const features) {
